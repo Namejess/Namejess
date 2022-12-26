@@ -29,7 +29,7 @@
 ## Contact
 
 <p align="left">  
-<a href="https://linkedin.com/in/jessy drouin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessy drouin" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/jessy-drouin-00850b153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessy drouin" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/namejess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namejess" height="30" width="40" /></a>  
 <a href="https://discord.gg/190231524472389632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="190231524472389632" height="30" width="40" /></a> 
 <a href="https://mastodon.social/@namejess" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1200px-Mastodon_Logotype_%28Simple%29.svg.png" alt="190231524472389632" height="30" width="30" /></a> 
