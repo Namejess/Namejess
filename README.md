@@ -22,7 +22,7 @@
   
 - 👨‍💻 CV & Projets sur mon portfolio : [https://namejess.github.io/](https://namejess.github.io/)
 
-- 📜 J'adore le markdown et la documentation. J'utilise [Obsidian](https://obsidian.md) et mon [MkDocs](https://namejess.gitlab.io/namejess-docs/mkdocs/installation/) est en ligne via Gitlab Pages
+- 📜 J'adore le markdown et la documentation. J'utilise [Obsidian](https://obsidian.md) et mon [MkDocs](https://namejess.gitlab.io/namejess-docs/mkdocs/) est en ligne via Gitlab Pages
 
 
 
