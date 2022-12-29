@@ -14,7 +14,7 @@
 
 - 🧠 Apprendre, encore et encore. La raison principale pour laquelle j'aime ce métier
 
-- 🌱 Actuellement je suis en plein apprentissage de **Rust !**  (un petit projet d'une app CLI pour aider un ami)
+- 🌱 Actuellement je suis en plein apprentissage de **Rust !** 
   
 - 🤝 Je cherche à contribuer au **Projet Open Source**  
 
@@ -66,4 +66,4 @@ Voici une liste non-exhaustive des outils et langages que j'utilise. J'ai un pro
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namejess&" alt="namejess" /></p>
 
 
-<h1 align="center">See ya  🌈🌈</h1>  
+<h1 align="center">See ya  🌈🦀</h1>  
