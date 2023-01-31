@@ -14,7 +14,7 @@
 
 - 🧠 Apprendre, encore et encore. La raison principale pour laquelle j'aime ce métier
 
-- 🌱 Actuellement je suis en plein apprentissage de **Rust !** 
+- 🌱 Actuellement je suis en plein apprentissage de **Rust** 🦀🦀
   
 - 🤝 Je cherche à contribuer au **Projet Open Source**  
 
