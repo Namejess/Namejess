@@ -1,5 +1,4 @@
-<h1 align="center">Salut 👋 Bienvenue sur mon Github </h1>  
-<h4 align="center">Toujours en quête d'apprentissage et de connaissances dans le domaine de l'IT, je suis passionné par ce domaine et les métiers qui l'entourent. Diplomé en administration système & réseaux puis en développement, j'aime l'aspect technique d'un projet et le challenge intellectuel qu'il représente.</h4>  
+<h1 align="center">Salut 👋 </h1>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namejess&label=Profile%20views&color=0e75b6&style=flat" alt="namejess" /> </p>
 
@@ -8,7 +7,7 @@
 
 ##  About  
 
-- 😊 Je m'appelle Jessy DROUIN, Namejess sur les Internets. Actuellement en étude Bac+3 (CCI formation - **Concepteur Développeur d'Application**)
+- 😊 Je m'appelle Jessy DROUIN, Namejess sur les Internets. Actuellement en étude Bac+5 (CESI - **Architecture logicielle et SI**)
 
 - 🖥️ Issu d'un cursus Adminsys, j'ai vu la lumière dans la programmation
 
